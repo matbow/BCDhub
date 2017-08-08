@@ -1,0 +1,47 @@
+.header {
+  text-align: center;
+}
+
+.head {
+  background-color: #715aa3;
+}
+
+.bartop {
+  opacity: 0;
+}
+
+.thumbnail:hover {
+  background: lightgray;
+  color: white !important;
+}
+
+#main-header {
+  color: #dad3ea;
+}
+
+#main-des {
+  color: #dad3ea;
+}
+
+#myTable {
+  width: 100%;
+}
+
+th {
+  padding: 5px;
+  background-color: lightgrey;
+}
+
+td {
+  padding: 5px;
+}
+
+.record {
+  float: left;
+  width: 33.3333%;
+}
+
+#thumbnailrow {
+  text-align: center;
+}
+
